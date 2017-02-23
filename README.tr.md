@@ -1,5 +1,5 @@
 # GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Git ve Github'ın gizli ve etkileyici özelliklerinin yer aldığı koleksiyon. Bu cheat sheet [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) Zach Holman'ın Aloha Ruby Konferansı 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) ve onun WDCNZ 2013 konuşmasından esinlenilmiştir. ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
+Git ve Github'ın gizli ve etkileyici özelliklerinin yer aldığı koleksiyon. Bu cheat sheet [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) Zach Holman'ın Aloha Ruby Konferansı 2012 ([Slaytlar](https://speakerdeck.com/holman/git-and-github-secrets)) ve onun WDCNZ 2013 konuşmasından esinlenilmiştir. ([Slaytlar](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 *Kısayol: [`http://git.io/sheet`](http://git.io/sheet)*
 
@@ -7,7 +7,7 @@ Git ve Github'ın gizli ve etkileyici özelliklerinin yer aldığı koleksiyon. 
 
 ## İçerik
  - [GitHub](#github)
-  - [Boşluğu Gözardı Etmek](#ignore-whitespace)
+  - [Boşlukları Gözardı Etmek](#ignore-whitespace)
   - [Tab'ı Ayarlamak](#adjust-tab-space)
   - [Kullanıcıya Göre Commit Geçmişi](#commit-history-by-author)
   - [Repository Klonlama](#cloning-a-repository)
