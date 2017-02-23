@@ -3,7 +3,7 @@ Git ve Github'ın gizli ve etkileyici özelliklerinin yer aldığı koleksiyon. 
 
 *Kısayol: [`http://git.io/sheet`](http://git.io/sheet)*
 
-*Diğer diller oku: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md), [Turkish](README.tr.md).*
+*Diğer dillerde oku: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md), [Turkish](README.tr.md).*
 
 ## İçerik
  - [GitHub](#github)
@@ -56,22 +56,22 @@ Git ve Github'ın gizli ve etkileyici özelliklerinin yer aldığı koleksiyon. 
     - [GitHub Sohbetleri](#github-talks)
  - [Git](#git)
   - [Çalışma Ortamından Silinen Tüm Dosyaları Kaldırmak](#remove-all-deleted-files-from-the-working-tree)
-  - [Önceki Branch](#previous-branch)
+  - [Eski Branch](#previous-branch)
   - [Stripspace](#stripspace)
   - [SSH Anahtarları](#ssh-keys)
-  - [Checking out Pull Requests](#checking-out-pull-requests)
+  - [Pull Request'leri Kontrol Etmek](#checking-out-pull-requests)
   - [Boş Commit'ler](#empty-commits)
-  - [Styled Git Status](#styled-git-status)
-  - [Styled Git Log](#styled-git-log)
+  - [Stilli Git Durumları](#styled-git-status)
+  - [Stilli Git Log'ları](#styled-git-log)
   - [Git Query](#git-query)
   - [Git Grep](#git-grep)
-  - [Merged Branches](#merged-branches)
-  - [Fixup and Autosquash](#fixup-and-autosquash)
-  - [Web Server for Browsing Local Repositories](#web-server-for-browsing-local-repositories)
-  - [Git Configurations](#git-configurations)
-    - [Aliases](#aliases)
-    - [Auto-Correct](#auto-correct)
-    - [Color](#color)
+  - [Merge Edilen Branchler](#merged-branches)
+  - [Fixup ve Autosquash](#fixup-and-autosquash)
+  - [Local Repository'leri Görüntülemek İçin Web Server](#web-server-for-browsing-local-repositories)
+  - [Git Konfigürasyonları](#git-configurations)
+    - [Alias - Takma Ad](#aliases)
+    - [Otomatik Düzeltme](#auto-correct)
+    - [Renk](#color)
   - [Git Kaynakları](#git-resources)
     - [Git Kitapları](#git-books)
     - [Git Videoları](#git-videos)
